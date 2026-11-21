@@ -1,0 +1,14 @@
+
+Order_ID,Date,Product,Category,Region,Quantity,Unit_Price
+101,2026-01-05,Laptop,Electronics,Chennai,2,50000
+102,2026-01-08,Mouse,Accessories,Bangalore,5,500
+103,2026-01-12,Keyboard,Accessories,Chennai,3,1200
+104,2026-02-02,Mobile,Electronics,Hyderabad,2,20000
+105,2026-02-10,Laptop,Electronics,Bangalore,1,50000
+106,2026-02-15,Mouse,Accessories,Chennai,10,500
+107,2026-03-03,Mobile,Electronics,Chennai,3,20000
+108,2026-03-11,Keyboard,Accessories,Hyderabad,4,1200
+109,2026-03-20,Laptop,Electronics,Hyderabad,2,50000
+110,2026-04-01,Mouse,Accessories,Bangalore,8,500
+111,2026-04-09,Mobile,Electronics,Bangalore,1,20000
+112,2026-04-15,Keyboard,Accessories,Chennai,6,1200
